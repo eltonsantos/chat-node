@@ -1,6 +1,4 @@
-# Chat Node
-
-<img alt="Chat Bide" title="Chat Node" src=".github/banner-nlw5.png" />
+<img alt="Chat Node" title="Chat Node" src=".github/banner-nlw5.png" />
 
 <h1 align="center">Chat Node</h1>
 
@@ -51,6 +49,8 @@ $ yarn
 # Start the project
 $ yarn dev
 ```
+- To access client's chat: http://localhost:3333/pages/client
+- To access admin's chat: http://localhost:3333/pages/admin
 
 ## 📄 Licence
 
