@@ -46,9 +46,13 @@ Follow the steps below
 # Install the dependencies
 $ yarn
 
+# Generate migrations
+$ yarn typeorm migration:run
+
 # Start the project
 $ yarn dev
 ```
+
 - To access client's chat: http://localhost:3333/pages/client
 - To access admin's chat: http://localhost:3333/pages/admin
 
