@@ -78,6 +78,8 @@ document
 
     socket.emit("client_send_to_admin", params);
 
+    document.getElementeById("message_user").value = "";
+
     const template_client = document.getElementById("message-user-template")
       .innerHTML;
 
