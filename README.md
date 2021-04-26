@@ -7,7 +7,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-diagram">Diagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licence">Licence</a>
+  <a href="#-próximos-passos">Próximos passos</a>
 </p>
 
 <br>
@@ -56,9 +56,14 @@ $ yarn dev
 - To access client's chat: http://localhost:3333/pages/client
 - To access admin's chat: http://localhost:3333/pages/admin
 
-## 📄 Licence
+## 🐾 Próximos passos
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+- [ ] Possibilitar desconectar o chat, tanto do lado do cliente, quanto do lado do admin 😎
+- [ ] Colocar na tela alguma notificação de digitação na interface (Ex: Admin/Cliente está digitando...) 🥰
+- [ ] Possibilitar o envio da conversa para o email do cliente 🤩
+- [ ] Colocar login para que o admin possa acessar 🐱‍💻
+- [ ] Ver histórico dos atendimentos 🤗
+- [ ] E muito mais... ❤💪🏼
 
 ---
 
